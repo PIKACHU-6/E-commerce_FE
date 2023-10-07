@@ -1,0 +1,15 @@
+table{
+    width: 100%;
+}
+
+table td {
+    padding: 15px;
+}
+
+.mat-column-Description {
+    width: 50% !important;
+}
+
+.button{
+    background-color: #b095dc;
+}

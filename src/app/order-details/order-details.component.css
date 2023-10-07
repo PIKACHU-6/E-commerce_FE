@@ -1,0 +1,11 @@
+table {
+    width: 100%;
+  }
+
+button{
+    background-color: #7a57ad;
+}
+
+mat-button-toggle{
+  background-color: #b087ee;
+}
